@@ -14,10 +14,10 @@ public class DiceGame {
         int rounds = scanner.nextLine();
 
         System.out.println("Hur många sidor ska det vara på tärningen?");
-        int antalSidorPåTärning = scanner.nextInt();
+        int numberOfSides = scanner.nextInt();
         scanner.nextLine
 
-        player= new Player(name, antalSidorPåTärning);
+        player= new Player(name, numberOfSides);
 
         for(int round = 1; round <= rounds, round++) {
             System.out.println("Omgång" + round);
