@@ -1,4 +1,4 @@
-package Java_playground;
+package codealongs.Java_playground;
 
 import java.util.Scanner;
 

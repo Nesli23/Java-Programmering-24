@@ -1,4 +1,4 @@
-package Java_playground;
+package codealongs.Java_playground;
 
 public class MainMethodKeywords {
         public static void main(String[] args) {

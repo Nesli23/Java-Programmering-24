@@ -1,4 +1,4 @@
-package Java_playground;
+package codealongs.Java_playground;
 
 public class Result {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Java_playground;
+package codealongs.Java_playground;
 
 class Book {
     private String title;
