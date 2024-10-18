@@ -10,7 +10,7 @@ public class ArrayOfIntegers {
         integerArray = new int[i];
         Random r = new Random();
 
-        for (int element = 0; element < integerArray.length; element++);{
+        for (int element = 0; element < integerArray.length; element++){
             integerArray[element] = r.nextInt(1000);
         }
     }
@@ -26,11 +26,11 @@ public class ArrayOfIntegers {
         System.out.println(Arrays.toString(theArray.integerArray));
     }
 
-    void substitute (int index;int newValue); {
+    void substitute (int index,int newValue) {
     integerArray[newValue] = newValue;
 }
 
-    void square (int index); {
+    void square (int index) {
         integerArray[index] = integerArray[index] * integerArray[index]; 
     }
 }
