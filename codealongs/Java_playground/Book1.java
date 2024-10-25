@@ -10,7 +10,7 @@ private int year;
 public Book1() {
     title = "Min bok";
     author = "Bok Boksson";
-    year = 2024
+    year = 2024;
 
 }
 
