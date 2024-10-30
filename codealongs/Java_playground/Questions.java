@@ -1,9 +1,9 @@
 package codealongs.Java_playground;
 
 import java.util.ArrayList; //Används för att lagra en dynamis lista av objekt. Man kan lägga till, ta bort eller manipulera objekt med add, remove, get, size, clear
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+import java.util.Collections; // Används för att slumpa svarsalternativen. shuffle(List<?> list): Blandar elementen i listan.
+import java.util.List; // Framework som representerar en ordnad samling av element, där dubbletter är tillåtna. Här är några viktiga egenskaper och funktioner hos List:
+import java.util.Scanner; // Används för att kunna skriva i terminalen
 
 public class Questions {
     private String question;
